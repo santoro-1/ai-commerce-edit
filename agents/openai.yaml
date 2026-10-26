@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI电商片段精剪"
+  short_description: "基于内容与实际素材精剪AI电商视频，复用跨品类经验并交付可编辑草稿"
+  default_prompt: "使用 $ai-commerce-edit，根据脚本和现有AI片段精剪视频，说明关键剪法的理由，保留我的最新修改并交付可编辑草稿。"
