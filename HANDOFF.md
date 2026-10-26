@@ -12,11 +12,15 @@
 - [verified] `references/cases.md`保留原七条洗发水案例，`references/jacket-cases.md`独立存放冲锋衣经验。
 - [verified] README补充调用、输入信息、安装、个人偏好边界及后续同步方法。
 - [verified] 0.2.0本地升级曾通过结构和引用检查；十项行为场景是文字推演，不是实际视频测试。
+- [verified] 已补[本地工具与剪映草稿配置](references/local-tools.md)，README给出工具清单，草稿交付页加入按需入口。明确jy-draftc上游Git地址、运行时匹配、JY_INSTALL_DIR、Python/FFmpeg/按需库与副本验证。
+- [verified] 加解密项目来源为https://github.com/wenshui330/jy-draftc；本次本机旧包装接口与上游当前发布接口分别说明。此轮为执行文档补充，技能版本仍0.2.0，原案例和剪辑规则保持。
+- [verified] 工具文档补充后，技能结构、15个相对引用与3个PowerShell示例语法检查通过；安装副本与发布工作区相应文件一致，未运行安装命令或改动本机加解密工具配置。
 
 ## 🛑 当前卡点与根本原因
 
 - [unknown] 尚未完成升级后新片的连续带声审片与用户评价；不能宣称效果提升已经实证。
 - [verified] 仓库不包含草稿编辑工具与效果资源，具体可执行能力取决于使用者的环境。
+- [unknown] 新环境配置命令已核对来源，未在全新电脑上完成安装与剪映兼容性测试；不能保证下载技能即具备可写工程的能力。
 
 ## 📋 下一步行动计划
 
